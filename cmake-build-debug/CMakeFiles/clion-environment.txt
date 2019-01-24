@@ -1,0 +1,1 @@
+CMake: 3.6.3@/nfs/s-l003/local/vol01/usr/css/x86_64/opt/jetbrains/clion-2016.3.2/bin/cmake/bin/cmake
